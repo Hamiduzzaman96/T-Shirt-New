@@ -1,0 +1,243 @@
+[
+    {
+        "id":121,
+        "name":"Blackwood",
+        "image":"https://www.lee.in/media/catalog/product/cache/2ea3bc6731f73a2fa6df91a199d51ea2/l/s/ls_20p_20001_1.jpg",
+        "price":"$50",
+        "Category":"B",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":5
+
+    },
+    {
+        "id":122,
+        "name":"whitewood",
+        "image":"https://img.tatacliq.com/images/i3/1348Wx2000H/MP000000003414878_1348Wx2000H_20180718023247.jpeg",
+        "price":"$40",
+        "Category":"A",
+        "stock":10,
+        "quantity":0,
+        "shipping":1,
+        "ratings":5
+
+    },
+    {
+        "id":123,
+        "name":"Tomwood",
+        "image":"https://m.media-amazon.com/images/I/91BBx3W05AL._SX342_.jpg",
+        "price":"$30",
+        "Category":"B",
+        "stock":10,
+        "quantity":1,
+        "shipping":1,
+        "ratings":4
+
+    },
+    {
+        "id":124,
+        "name":"Redwood",
+        "image":"https://m.media-amazon.com/images/I/61fJYWkZI+L._AC_UY1100_.jpg",
+        "price":"$20",
+        "Category":"A",
+        "stock":20,
+        "quantity":1,
+        "shipping":1,
+        "ratings":5
+
+    },
+    {
+        "id":125,
+        "name":"Sadwood",
+        "image":"https://rukminim2.flixcart.com/image/850/1000/krqoknk0/t-shirt/e/n/i/s-sky-blue-green-s-pack-of-2-sman-original-imag5gtpgqmgxg2u.jpeg?q=90",
+        "price":"$60",
+        "Category":"A",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":4
+
+    },
+    {
+        "id":126,
+        "name":"Bodwood",
+        "image":"https://rukminim2.flixcart.com/image/850/1000/xif0q/t-shirt/h/5/f/m-ts015-blue-array-original-imagqjgbsc7jqc72.jpeg?q=20",
+        "price":"$70",
+        "Category":"B",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":5
+
+    },
+    {
+        "id":127,
+        "name":"Blawood",
+        "image":"https://img3.junaroad.com/uiproducts/19491953/zoom_0-1678379714.jpg",
+        "price":"$90",
+        "Category":"B",
+        "stock":10,
+        "quantity":0,
+        "shipping":1,
+        "ratings":4
+
+    },
+    {
+        "id":128,
+        "name":"Ackwood",
+        "image":"https://rukminim1.flixcart.com/image/850/1000/khqllzk0-0/t-shirt/r/6/k/xl-hola-4-xl-stellers-original-imafxzgthv8gygkr.jpeg?q=20",
+        "price":"$50",
+        "Category":"B",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":5
+
+    },
+    {
+        "id":129,
+        "name":"Kernwood",
+        "image":"https://www.lee.in/media/catalog/product/cache/2ea3bc6731f73a2fa6df91a199d51ea2/l/s/ls_20p_20001_1.jpg",
+        "price":"$40",
+        "Category":"B",
+        "stock":10,
+        "quantity":0,
+        "shipping":1,
+        "ratings":5
+
+    },
+    {
+        "id":130,
+        "name":"Wickwood",
+        "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/2275365/2022/11/22/a3af8a2f-a385-4cb7-bf7b-e34e0925fe0d1669105782439-Roadster-Men-White--Pure-Cotton-T-shirt-7301669105781913-1.jpg",
+        "price":"$30",
+        "Category":"B",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":4
+
+    },
+    {
+        "id":131,
+        "name":"Tickwood",
+        "image":"https://content.wepik.com/statics/38022357/conversions/PREVIEW-TSHIRT-preview.jpg",
+        "price":"$70",
+        "Category":"A",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":4
+
+    },
+    {
+        "id":132,
+        "name":"Reckwood",
+        "image":"https://cdn11.bigcommerce.com/s-rxzabllq/images/stencil/1280x1280/products/1504/12422/1HT_AQUA-Plain-100-Cotton-Tshirt-Online__30618.1643763653.jpg?c=2",
+        "price":"$30",
+        "Category":"A",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":5
+
+    },
+    {
+        "id":133,
+        "name":"Backwood",
+        "image":"https://www.stickerscape.co.uk/wp-content/uploads/006122DG-01.jpg",
+        "price":"$50",
+        "Category":"A",
+        "stock":10,
+        "quantity":0,
+        "shipping":1,
+        "ratings":5
+
+    },
+    {
+        "id":134,
+        "name":"Tenswood",
+        "image":"https://fullyfilmy.in/cdn/shop/products/New-Mockups---no-hanger---TShirt-Yellow.jpg?v=1639657077",
+        "price":"$30",
+        "Category":"B",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":3
+
+    },
+    {
+        "id":134,
+        "name":"Tenswood",
+        "image":"../src/assets/img1.jpg",
+        "price":"$30",
+        "Category":"B",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":3
+
+    },
+    {
+        "id":134,
+        "name":"Tenswood",
+        "image":"../src/assets/img2.jpg",
+        "price":"$30",
+        "Category":"B",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":3
+
+    },
+    {
+        "id":134,
+        "name":"Tenswood",
+        "image":"../src/assets/img3.jpg",
+        "price":"$30",
+        "Category":"B",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":3
+
+    },
+    {
+        "id":134,
+        "name":"Tenswood",
+        "image":"../src/assets/img4.jpg",
+        "price":"$30",
+        "Category":"B",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":3
+
+    },
+    {
+        "id":134,
+        "name":"Tenswood",
+        "image":"../src/assets/img5.jpg",
+        "price":"$30",
+        "Category":"B",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":3
+
+    },
+
+    {
+        "id":134,
+        "name":"Tenswood",
+        "image":"../src/assets/img6.jpg",
+        "price":"$30",
+        "Category":"B",
+        "stock":20,
+        "quantity":0,
+        "shipping":1,
+        "ratings":3
+
+    }
+]

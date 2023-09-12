@@ -1,0 +1,60 @@
+nav ul {
+    padding-top: 4px;
+    padding-right: 35px;
+
+}
+
+ul .a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: rgb(250, 246, 246);
+    padding-left: 15px;
+    font-size: 20px;
+    display: inline-flex;
+    font-weight: 40;
+
+}
+
+.header {
+    background-color: rgb(11, 63, 83);
+
+    justify-content: space-between;
+
+    height: 50px;
+    width: 100%;
+    position: sticky;
+    display: flex;
+    z-index: 100;
+    top: 0;
+    padding: 20px;
+    align-items: center;
+}
+
+.search {
+    position: relative;
+    padding-top: 15px;
+    left: 30PX;
+    padding-left: 30px;
+    display: flexbox;
+    border-radius: 15px;
+}
+
+.t-shirt {
+    position: relative;
+    left: 45px;
+    display: -ms-inline-flexbox;
+    color: chocolate;
+}
+
+.search input {
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 40px;
+    display: inline-flexbox;
+    width: 100%;
+    align-items: center;
+    padding-right: 90px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
