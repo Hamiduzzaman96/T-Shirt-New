@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 
 import "./home.css";
 import Product from "../Product/Product";
+import Cart from "../Cart/Cart";
 
 export default function Home() {
   const [products, setProducts] = useState([]);
@@ -30,8 +31,7 @@ export default function Home() {
       </div>
 
       <div className="cart-container">
-        <p className="summary">Order Summary</p>
-        <p>Selected Items : {cart.length}</p>
+        <Cart cart={cart}></Cart>
       </div>
     </div>
   );
